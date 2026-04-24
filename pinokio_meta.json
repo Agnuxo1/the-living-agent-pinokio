@@ -1,0 +1,12 @@
+{
+  "links": [{
+    "title": "Francisco Angulo de Lafuente (project author & launcher)",
+    "links": [
+      { "title": "GitHub", "value": "https://github.com/Agnuxo1" },
+      { "title": "The Living Agent repo", "value": "https://github.com/Agnuxo1/The-Living-Agent" },
+      { "title": "PyPI: living-agent", "value": "https://pypi.org/project/living-agent/" },
+      { "title": "KoboldCPP (required runtime)", "value": "https://github.com/LostRuins/koboldcpp" },
+      { "title": "Qwen3.5-9B GGUF weights", "value": "https://huggingface.co/unsloth/Qwen3.5-9B-GGUF" }
+    ]
+  }]
+}
