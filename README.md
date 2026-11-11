@@ -4,6 +4,10 @@ Pinokio launcher for [The Living Agent](https://github.com/Agnuxo1/The-Living-Ag
 
 The Living Agent is a 16x16 Chess-Grid autonomous research agent that walks interconnected Markdown knowledge cells, synthesizes short papers, scores novelty against prior output, and updates a persistent `soul.md` identity file.
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> The launcher packages cloning, environment setup, dependency installation and knowledge-grid initialization into repeatable Pinokio actions. This reduces manual setup work for experimenting with The Living Agent and makes model download an explicit, separate step. The KoboldCPP runtime still requires user setup, so the benefit is a more repeatable installation workflow within the <a href="#what-this-launcher-does">documented scope</a>.</sub>
+<!-- impact-note:end -->
+
 ## What this launcher does
 
 1. Clones `Agnuxo1/The-Living-Agent` into `app/`.
